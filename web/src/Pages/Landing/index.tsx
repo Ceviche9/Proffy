@@ -8,7 +8,6 @@ import studyIcon from '../../Assets/images/icons/study.svg';
 import GiveClassIcon from '../../Assets/images/icons/give-classes.svg';
 import PurpleHeart from '../../Assets/images/icons/purple-heart.svg';
 
-
 import './styles.css';
 
 export const Landing = () =>  {

@@ -6,7 +6,6 @@ import {TeacherItem} from '../../components/TeacherItem';
 import './styles.css';
 
 export const TeacherList = () => {
-
     return (
         <div id="page-teacher-list" className="container" >
             <PageHeader title="Este são os Professores disponíveis">
@@ -28,11 +27,6 @@ export const TeacherList = () => {
                </form>
             </PageHeader>
                 <main>
-                    <TeacherItem/>
-                    <TeacherItem/>
-                    <TeacherItem/>
-                    <TeacherItem/>
-                    <TeacherItem/>
                     <TeacherItem/>
                     <TeacherItem/>
                 </main>

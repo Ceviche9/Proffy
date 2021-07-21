@@ -64,7 +64,7 @@ export default class ClassesController {
           });
           // Para pegar o user id
           const user_id = insertUserID[0]
-      
+          // Para pegar o Id da Classe
           const InsertClassesID = await trx('classes').insert({
               subject,
               cost,
