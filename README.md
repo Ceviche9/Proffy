@@ -6,25 +6,26 @@
   <img alt="Proffy" src="https://raw.githubusercontent.com/rocketseat-education/nlw-02-omnistack/master/.github/proffy.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 
-## 💻 Projeto
+## 💻 Project
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+Proffy is an online study platform that helps people find professors online.
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+In the links below you will find the layout of the web project and also the mobile project. 
+>Remember that you need to have an account at [Figma](http://figma.com/) to access it.
 
 - [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
