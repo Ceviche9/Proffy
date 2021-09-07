@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
-</h1>
-
 <p align="center">
   <img alt="Proffy" src="https://raw.githubusercontent.com/rocketseat-education/nlw-02-omnistack/master/.github/proffy.png" width="100%">
 </p>
